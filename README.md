@@ -1,6 +1,6 @@
 # wendigo-ware
 
-this thing was discontinued after he was bored of doing anti-locks
+this thing was discontinued after he was bored of doing anti-locks <br>
 -another reason : the Big B (Byfron)
 
 ```
